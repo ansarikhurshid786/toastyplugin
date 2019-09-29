@@ -1,1 +1,1 @@
-# toastyplugin
+# Simple toast plugin 
